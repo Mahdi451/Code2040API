@@ -4,5 +4,5 @@
 
 LinkedIn: https://www.linkedin.com/in/mahdihosman
 
-Email: mosman@mail.sfsu.edu
+E-mail: mosman@mail.sfsu.edu
 
