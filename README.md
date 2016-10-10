@@ -1,4 +1,4 @@
-### My solutions to the API Challenge for the Code2040 Fellows Program Application.
+### My solutions to the API Challenge for Code2040's 2017 Fellows Application.
 
 # Connect with me!
 
