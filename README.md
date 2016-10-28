@@ -1,3 +1,8 @@
-# Code2040API
+### My solutions to the API Challenge for Code2040's 2017 Fellows Application.
 
-My solutions to Code2040's API Challenge.
+# Connect with me!
+
+LinkedIn: https://www.linkedin.com/in/mahdihosman
+
+E-mail: mosman@mail.sfsu.edu
+
